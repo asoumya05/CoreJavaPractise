@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author princerohit
+ *
+ */
+module CoreJavaPractise {
+}
